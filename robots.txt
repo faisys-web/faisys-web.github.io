@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://GAsys-web.github.io//sitemap.xml
+Sitemap: https://GAsys-web.github.io/sitemap.xml
