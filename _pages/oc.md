@@ -36,13 +36,25 @@ permalink: /committee/organizing
 </head>
 <body>
     <div class="oc-container">
-
+        <div class="oc-header">General Chair</div>
+        <div class="oc-content">
+            <span>Hong Xu</span>
+            <span> Chinese University of Hong Kong</span>
+        </div>
+        <div class="oc-header">PC Chairs</div>
+        <div class="oc-content">
+            <span>Bin Cui</span>
+            <span>Peking University</span>
+        </div>
+        <div class="oc-content">
+            <span>Dmitrii Ustiugov</span>
+            <span>Nanyang Technological University</span>
+        </div>
         <div class="oc-header">Sponsorship Chair</div>
         <div class="oc-content">
             <span>Abdulrahman Mahmoud</span>
-            <span> Mohamed Bin Zayed University of AI</span>
+            <span>Mohamed Bin Zayed University of AI</span>
         </div>
-
         <div class="oc-header">Web Chair</div>
         <div class="oc-content">
             <span>Cheng Li</span>
