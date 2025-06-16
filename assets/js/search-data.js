@@ -31,7 +31,7 @@ ninja.data = [{
                 window.location.href = "/committee/steering";
               },
             },{id: "nav-program",
-          title: "program",
+          title: "Program",
           description: "",
           section: "Navigation",
           handler: () => {
