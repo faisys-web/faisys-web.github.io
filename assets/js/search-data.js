@@ -4,27 +4,27 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "dropdown-program-committee",
-              title: "program committee",
+              title: "Program committee",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/committee/program";
               },
             },{id: "dropdown-organizing-committee",
-              title: "organizing committee",
+              title: "Organizing committee",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/committee/organizing";
               },
             },{id: "dropdown-steering-committee",
-              title: "steering committee",
+              title: "Steering committee",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -38,14 +38,14 @@ ninja.data = [{
             window.location.href = "/program/";
           },
         },{id: "dropdown-papers",
-              title: "papers",
+              title: "Papers",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/cfp/";
               },
             },{id: "dropdown-grand-challenges",
-              title: "grand challenges",
+              title: "Grand challenges",
               description: "",
               section: "Dropdown",
               handler: () => {
