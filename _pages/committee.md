@@ -1,13 +1,13 @@
 ---
 layout: default
-title: committee
+title: Committee
 nav: true
 dropdown: true
 children:
-    - title: program committee
+    - title: Program committee
       permalink: /committee/program
-    - title: organizing committee
+    - title: Organizing committee
       permalink: /committee/organizing
-    - title: steering committee
+    - title: Steering committee
       permalink: /committee/steering
 ---

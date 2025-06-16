@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:  Mid November 2025, CUHK, Hong Kong
 

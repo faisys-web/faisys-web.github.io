@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submissions
+title: Submissions
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: papers
+  - title: Papers
     permalink: /cfp/
-  - title: grand challenges
+  - title: Grand challenges
     permalink: /cfg/
 ---

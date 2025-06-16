@@ -1,6 +1,6 @@
 ---
 layout: default
-title: program
+title: Program
 permalink: /program/
 nav: true
 ---
